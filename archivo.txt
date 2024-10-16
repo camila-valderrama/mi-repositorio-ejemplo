@@ -1,2 +1,2 @@
 Este es un archivo de ejemplo pra el curso de Github.
-Esta es na segunda linea en el branch nueva-funcionalidad.
+Esta es una segunda linea en el branch nueva-funcionalidad.
